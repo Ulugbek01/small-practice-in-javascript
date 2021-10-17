@@ -1,0 +1,16 @@
+.container {
+  max-width: 600px;
+  background-color: bisque;
+  padding: 20px;
+  margin: 30px auto;
+  line-height: 1.4;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.bg-color {
+  background: #000;
+  color: #fff;
+}
